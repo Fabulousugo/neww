@@ -1,4 +1,4 @@
-# Chainblog
+# Decentralized Blog
 
 ![banner.png](./banner.png)
 
